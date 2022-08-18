@@ -1,0 +1,20 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Sam",
+      "email": "sam3123@gmail.com",
+      "username": "sam3123",
+      "mobile": "9999999999",
+      "description": "Full Stack Web Developer"
+    },
+    {
+      "id": 2,
+      "name": "Sona",
+      "email": "sona333@gmail.com",
+      "username": "sona333",
+      "mobile": "9898980989",
+      "description": "Full Stack Web Developer"
+    }
+  ]
+}
