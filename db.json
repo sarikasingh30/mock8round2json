@@ -3,18 +3,34 @@
     {
       "id": 1,
       "name": "Sam",
-      "email": "sam3123@gmail.com",
-      "username": "sam3123",
-      "mobile": "9999999999",
-      "description": "Full Stack Web Developer"
+      "age":33, 
+      "gender":"M", 
+      "department":"Production", 
+      "salary":12345
     },
     {
       "id": 2,
       "name": "Sona",
-      "email": "sona333@gmail.com",
-      "username": "sona333",
-      "mobile": "9898980989",
-      "description": "Full Stack Web Developer"
+      "age":33, 
+      "gender":"F", 
+      "department":"Production", 
+      "salary":19345
+    },
+    {
+      "id": 3,
+      "name": "Sonakshi",
+      "age":33, 
+      "gender":"F", 
+      "department":"Production", 
+      "salary":19045
+    },
+    {
+      "id": 4,
+      "name": "Mona",
+      "age":23, 
+      "gender":"F", 
+      "department":"Developer", 
+      "salary":432222
     }
   ]
 }
